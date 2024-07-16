@@ -1,0 +1,1138 @@
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\appsettings.Development.json
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\appsettings.json
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\RepositoryPatternMohit.staticwebassets.runtime.json
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\RepositoryPatternMohit.exe
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\RepositoryPatternMohit.deps.json
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\RepositoryPatternMohit.runtimeconfig.json
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\RepositoryPatternMohit.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\RepositoryPatternMohit.pdb
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\mscorlib.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\netstandard.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.AppContext.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Buffers.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Collections.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.ComponentModel.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Configuration.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Console.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Core.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Data.Common.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Data.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Drawing.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Globalization.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.Compression.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Linq.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Memory.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.Http.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.Mail.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.Ping.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.Requests.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.Security.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Numerics.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.ObjectModel.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Reflection.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.Claims.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.Principal.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Threading.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Transactions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.ValueTuple.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Web.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Windows.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Xml.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\WindowsBase.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Azure.Core.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Azure.Identity.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Humanizer.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\MessagePack.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\MessagePack.Annotations.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Build.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Mono.TextTemplating.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Newtonsoft.Json.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\NuGet.Common.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\NuGet.Configuration.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\NuGet.Frameworks.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\NuGet.LibraryModel.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\NuGet.Packaging.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\NuGet.ProjectModel.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\NuGet.Protocol.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\NuGet.Versioning.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.CodeDom.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Composition.Convention.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Composition.Hosting.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Composition.Runtime.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Composition.TypedParts.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Memory.Data.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Runtime.Caching.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Text.Json.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\RepositoryPatternMohit.csproj.AssemblyReference.cache
+H:\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\RepositoryPatternMohit.GeneratedMSBuildEditorConfig.editorconfig
+H:\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\RepositoryPatternMohit.AssemblyInfoInputs.cache
+H:\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\RepositoryPatternMohit.AssemblyInfo.cs
+H:\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\RepositoryPatternMohit.csproj.CoreCompileInputs.cache
+H:\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\RepositoryPatternMohit.MvcApplicationPartsAssemblyInfo.cs
+H:\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\RepositoryPatternMohit.MvcApplicationPartsAssemblyInfo.cache
+H:\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\RepositoryPatternMohit.RazorAssemblyInfo.cache
+H:\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\RepositoryPatternMohit.RazorAssemblyInfo.cs
+H:\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\staticwebassets\msbuild.RepositoryPatternMohit.Microsoft.AspNetCore.StaticWebAssets.props
+H:\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\staticwebassets\msbuild.build.RepositoryPatternMohit.props
+H:\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RepositoryPatternMohit.props
+H:\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RepositoryPatternMohit.props
+H:\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\staticwebassets.pack.json
+H:\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\staticwebassets.build.json
+H:\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\staticwebassets.development.json
+H:\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+H:\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\scopedcss\bundle\RepositoryPatternMohit.styles.css
+H:\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\scopedcss\projectbundle\RepositoryPatternMohit.bundle.scp.css
+H:\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\RepositoryPatternMohit.csproj.CopyComplete
+H:\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\RepositoryPatternMohit.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\refint\RepositoryPatternMohit.dll
+H:\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\RepositoryPatternMohit.pdb
+H:\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\RepositoryPatternMohit.genruntimeconfig.cache
+H:\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\ref\RepositoryPatternMohit.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\appsettings.Development.json
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\appsettings.json
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\RepositoryPatternMohit.staticwebassets.runtime.json
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\RepositoryPatternMohit.exe
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\RepositoryPatternMohit.deps.json
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\RepositoryPatternMohit.runtimeconfig.json
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\RepositoryPatternMohit.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\RepositoryPatternMohit.pdb
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\mscorlib.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\netstandard.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.AppContext.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Buffers.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Collections.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.ComponentModel.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Configuration.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Console.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Core.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Data.Common.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Data.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Drawing.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Globalization.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.Compression.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Linq.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Memory.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.Http.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.Mail.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.Ping.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.Requests.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.Security.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Numerics.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.ObjectModel.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Reflection.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.Claims.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.Principal.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Threading.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Transactions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.ValueTuple.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Web.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Windows.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Xml.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\refs\WindowsBase.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Azure.Core.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Azure.Identity.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Humanizer.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\MessagePack.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\MessagePack.Annotations.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Build.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Mono.TextTemplating.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\NuGet.Common.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\NuGet.Configuration.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\NuGet.Frameworks.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\NuGet.LibraryModel.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\NuGet.Packaging.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\NuGet.ProjectModel.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\NuGet.Protocol.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\NuGet.Versioning.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.CodeDom.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Composition.Convention.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Composition.Hosting.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Composition.Runtime.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Composition.TypedParts.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Memory.Data.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Text.Json.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\RepositoryPatternMohit.csproj.AssemblyReference.cache
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\RepositoryPatternMohit.GeneratedMSBuildEditorConfig.editorconfig
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\RepositoryPatternMohit.AssemblyInfoInputs.cache
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\RepositoryPatternMohit.AssemblyInfo.cs
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\RepositoryPatternMohit.csproj.CoreCompileInputs.cache
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\RepositoryPatternMohit.MvcApplicationPartsAssemblyInfo.cs
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\RepositoryPatternMohit.MvcApplicationPartsAssemblyInfo.cache
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\RepositoryPatternMohit.RazorAssemblyInfo.cache
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\RepositoryPatternMohit.RazorAssemblyInfo.cs
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\staticwebassets\msbuild.RepositoryPatternMohit.Microsoft.AspNetCore.StaticWebAssets.props
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\staticwebassets\msbuild.build.RepositoryPatternMohit.props
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RepositoryPatternMohit.props
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RepositoryPatternMohit.props
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\staticwebassets.pack.json
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\staticwebassets.build.json
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\staticwebassets.development.json
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\scopedcss\bundle\RepositoryPatternMohit.styles.css
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\scopedcss\projectbundle\RepositoryPatternMohit.bundle.scp.css
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\RepositoryPatternMohit.csproj.CopyComplete
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\RepositoryPatternMohit.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\refint\RepositoryPatternMohit.dll
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\RepositoryPatternMohit.pdb
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\RepositoryPatternMohit.genruntimeconfig.cache
+G:\dot net sir rar file\RepositoryPatternMohit\RepositoryPatternMohit\RepositoryPatternMohit\obj\Debug\net6.0\ref\RepositoryPatternMohit.dll
